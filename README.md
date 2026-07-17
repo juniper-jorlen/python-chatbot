@@ -1,7 +1,7 @@
 # Simple Python Chatbot
 
 ## Description
-This is a simple chatbot built in Python. It responds to basic user inputs such as greetings, asking its name, and help commands. The chatbot runs in the terminal and continues the conversation until the user types `bye`.
+It is a simple chatbot built in Python. It responds to basic user inputs such as greetings, asking its name, and help commands. The chatbot runs in the terminal and continues the conversation until the user types `bye`.
 
 ## Features
 - Responds to greetings
