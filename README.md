@@ -50,6 +50,3 @@ Bot: Goodbye!
 - Remember previous conversations
 - Add a graphical user interface
 - Connect to an AI model
-
-## Author
-Your Name
